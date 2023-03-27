@@ -27,7 +27,7 @@ Dit is de makkelijkste optie als je nog nooit met GitHub hebt gewerkt.
 
 4. Maak op je eigen computer in je projectmap een nieuw bestand index.html en plak daar de code in.
 
-Herhaal de stappen voor het bestand nos_style.css in de map css.
+Herhaal de stappen voor het bestand [nos_style.css](https://github.com/peterdoolaard/nos-grid-voorbeeld/blob/main/css/nos_style.css) in de map css.
 
 ## De repository klonen
  
