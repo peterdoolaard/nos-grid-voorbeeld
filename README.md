@@ -6,8 +6,8 @@ De voorpagina van [nos.nl](https://nos.nl) is voor het [Handboek HTML5 en CSS](h
 
 De code is op twee manieren te gebruiken:
 
-1. Kopieer de code.
-2. Kloon de repository.
+1. [Kopieer de code](#kopieer-de-code).
+2. [Kloon de repository](#de-repository-klonen).
 
 ## Kopieer de code
 
