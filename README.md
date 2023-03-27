@@ -30,5 +30,10 @@ Dit is de makkelijkste optie als je nog nooit met GitHub hebt gewerkt.
 Herhaal de stappen voor het bestand [nos_style.css](https://github.com/peterdoolaard/nos-grid-voorbeeld/blob/main/css/nos_style.css) in de map css.
 
 ## De repository klonen
+
+Door de repo te klonen maak je een exacte kopie op je eigen computer. Je hebt dan wel een GitHub-account nodig. Je kunt klonen via [https](https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls), via [SSH](https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-ssh-urls) en met [GitHub-CLI](https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-github-cli). Kijk voor uitleg op bijbehorende helppagina's.
+
+
+
  
 
