@@ -9,6 +9,8 @@ De code is op twee manieren te gebruiken:
 1. [Kopieer de code](#kopieer-de-code).
 2. [Kloon de repository](#de-repository-klonen).
 
+Kopiëren is goed te doen als het maar een paar bestanden zijn, zoals in deze repository. Als het er meer zijn, kun je beter een GitHub-account maken en leren hoe je projecten beheert met Git en GitHub.
+
 ## Kopieer de code
 
 Dit is de makkelijkste optie als je nog nooit met GitHub hebt gewerkt.
@@ -27,7 +29,11 @@ Dit is de makkelijkste optie als je nog nooit met GitHub hebt gewerkt.
 
 4. Maak op je eigen computer in je projectmap een nieuw bestand index.html en plak daar de code in.
 
-Herhaal de stappen voor het bestand [nos_style.css](https://github.com/peterdoolaard/nos-grid-voorbeeld/blob/main/css/nos_style.css) in de map css.
+5. Herhaal de stappen 1, 2 en 3 voor het bestand [nos_style.css](https://github.com/peterdoolaard/nos-grid-voorbeeld/blob/main/css/nos_style.css) in de map css. 
+
+6. Maak in je projectmap een map met de naam css en maak daarin een bestand met de naam nos_style.css. Plak daar de CSS-code in.
+
+Je hebt nu een lokale kopie van de complete pagina op je eigen computer. 
 
 ## De repository klonen
 
