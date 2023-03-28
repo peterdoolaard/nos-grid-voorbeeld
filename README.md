@@ -1,4 +1,4 @@
-# Website NOS gebouwd met CSS Grid Lay-out
+# Website NOS gebouwd met CSS Grid Layout
 
 ![voorpagina.webp](images/voorpagina.webp)
 
